@@ -1,0 +1,64 @@
+.img-thumbnail{width: 500px;}
+
+.navbar-brand{height: auto;}
+.card-text{font-size: 50px;}
+.titulos-info{text-align: center;
+;}
+.novedades{text-align: center;
+}
+.texto{font-size: 30px;}
+h2{text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.listas{text-align: center;
+}
+.puntos{text-decoration: none;list-style-type: none;}
+.mapa{text-align: center;}
+.cuenta{text-align: center;}
+section p{font-size: 35px;
+}
+h2{font-size: 40px;
+;}
+.imagenes-pf{height: 25rem;}
+
+.ul-pf {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0;
+  }
+  
+  .ul-pf h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .ul-pf ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .ul-pf li {
+    margin-bottom: 20px;
+  }
+  
+  .ul-pf li div {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .ul-pf li p {
+    margin: 0;
+  }
+  
+  .direccion{font-size: 20px;
+;}
+.whatsapp-link {
+    position: fixed;
+    bottom: 20px; /* distancia desde el borde inferior */
+    right: 20px; /* distancia desde el borde derecho */
+    z-index: 9999; /* asegura que la imagen esté encima de otros elementos */
+  }
+  section p{font-size: 23px;}
