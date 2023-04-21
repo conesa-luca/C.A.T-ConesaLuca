@@ -62,3 +62,4 @@ h2{font-size: 40px;
     z-index: 9999; /* asegura que la imagen esté encima de otros elementos */
   }
   section p{font-size: 23px;}
+  footer iframe{text-align: center;}
